@@ -1,0 +1,71 @@
+{
+  "source": "Uploaded .fig file; matching Penpot export",
+  "frame_width": 1440,
+  "content_width": 1120,
+  "header_height": 68,
+  "category_nav_height": 49,
+  "ticker_height": 37,
+  "footer_height": 69,
+  "colors": {
+    "background": "#f0f5f0",
+    "surface": "#fafcfa",
+    "border": "#e1e8e1",
+    "primary": "#05893e",
+    "primaryBorder": "#047f39",
+    "text": "#1d271f"
+  },
+  "fonts": [
+    "Hind Siliguri"
+  ],
+  "hero": {
+    "width": 1120,
+    "height": 283,
+    "illustrationWidth": 315,
+    "illustrationHeight": 263
+  },
+  "productCard": {
+    "width": 362.66,
+    "height": 138,
+    "borderRadius": 16,
+    "padding": 16,
+    "columns": 3,
+    "gap": 16
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "width": 1440,
+      "height": 3141
+    },
+    {
+      "name": "Sign Up",
+      "width": 1440,
+      "height": 1014
+    },
+    {
+      "name": "Sign In",
+      "width": 1440,
+      "height": 900
+    },
+    {
+      "name": "Profile",
+      "width": 1440,
+      "height": 1047
+    },
+    {
+      "name": "Category",
+      "width": 1440,
+      "height": 892
+    },
+    {
+      "name": "Product Details",
+      "width": 1440,
+      "height": 1489
+    },
+    {
+      "name": "Home - User Menu Open",
+      "width": 1440,
+      "height": 900
+    }
+  ]
+}

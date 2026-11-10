@@ -1,0 +1,13 @@
+node_modules
+.next
+.env
+.env.*
+!.env.example
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+.DS_Store
+npm-debug.log*
+
+.local-setup-ok
